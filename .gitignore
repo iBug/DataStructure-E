@@ -1,0 +1,5 @@
+# C
+*.o
+
+# Python
+__pycache__
