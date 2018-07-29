@@ -1,2 +1,3 @@
-# GraphTheory-E
-Code for USTC course "Graph Theory" in Fall 2018
+# DataStructure-E
+
+Code for USTC course "Data Structure" in Fall 2018
